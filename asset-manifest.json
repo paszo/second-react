@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paszo/second-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paszo/second-react/static/js/main.b3283f65.chunk.js",
+    "main.js.map": "/paszo/second-react/static/js/main.b3283f65.chunk.js.map",
+    "runtime-main.js": "/paszo/second-react/static/js/runtime-main.b5f8496e.js",
+    "runtime-main.js.map": "/paszo/second-react/static/js/runtime-main.b5f8496e.js.map",
+    "static/js/2.5b6f9b2e.chunk.js": "/paszo/second-react/static/js/2.5b6f9b2e.chunk.js",
+    "static/js/2.5b6f9b2e.chunk.js.map": "/paszo/second-react/static/js/2.5b6f9b2e.chunk.js.map",
+    "index.html": "/paszo/second-react/index.html",
+    "precache-manifest.1e9641b1db13be7e5ad8e6a726d6724c.js": "/paszo/second-react/precache-manifest.1e9641b1db13be7e5ad8e6a726d6724c.js",
+    "service-worker.js": "/paszo/second-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paszo/second-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b6f9b2e.chunk.js.LICENSE.txt": "/paszo/second-react/static/js/2.5b6f9b2e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paszo/second-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5f8496e.js",
+    "static/js/2.5b6f9b2e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b3283f65.chunk.js"
+  ]
+}
